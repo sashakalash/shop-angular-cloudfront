@@ -28,4 +28,6 @@ Follow the steps:
 - ng serve
 
 s3: http://aws-shop-bucket-1.s3-website.eu-central-1.amazonaws.com/
+cloud: d1lzgw3je0dwi2.cloudfront.net
+
 
