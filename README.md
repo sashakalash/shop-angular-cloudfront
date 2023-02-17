@@ -2,9 +2,6 @@
 
 Angular version: ~12.
 
-Repo maintainers:
-
-- [Sergey Gultyayev](https://github.com/gultyayev)
 
 ## The purpose
 
@@ -29,3 +26,8 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+s3: https://aws-shop-bucket-1.s3.eu-central-1.amazonaws.com/index.html
+cloud: https://djk7uwmzw1soe.cloudfront.net/
+
+
